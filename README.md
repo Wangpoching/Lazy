@@ -16,4 +16,4 @@
 
 * 報名表單
 
-<img src="https://github.com/Wangpoching/Lazy/blob/master/images/screenshots/lazy_screenshot_form.png" align=center/>
+<img src="https://github.com/Wangpoching/Lazy/blob/master/images/screenshots/lazy_screenshot_form.png" width="200" align=center/>
