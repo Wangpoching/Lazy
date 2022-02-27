@@ -10,8 +10,8 @@
 * 主視覺
 
 <div>
-<img src="https://github.com/Wangpoching/Lazy/screenshots/lazy_screenshot_main01" width="200" height="356" align=center/>
-<img src="https://github.com/Wangpoching/Lazy/screenshots/lazy_screenshot_main02" width="200" height="356" align=center/>
+<img src="https://github.com/Wangpoching/Lazy/images/screenshots/lazy_screenshot_main01" width="200" height="356" align=center/>
+<img src="https://github.com/Wangpoching/Lazy/images/screenshots/lazy_screenshot_main02" width="200" height="356" align=center/>
 </div>
 
 * 報名表單
