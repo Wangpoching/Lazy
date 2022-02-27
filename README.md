@@ -7,13 +7,23 @@
 
 ## Feature amd Screenshot
 
-* 主視覺
+* 首頁
+  * 超大橫幅主視覺
 
 <div>
-<img src="https://github.com/Wangpoching/Lazy/blob/master/images/screenshots/lazy_screenshot_main01.png" width="200" align=center/>
-<img src="https://github.com/Wangpoching/Lazy/blob/master/images/screenshots/lazy_screenshot_main02.png" width="200" align=center/>
+<img src="https://github.com/Wangpoching/Lazy/blob/master/images/screenshots/lazy_screenshot_main01.png" width="300" align=center/>
+<img src="https://github.com/Wangpoching/Lazy/blob/master/images/screenshots/lazy_screenshot_main02.png" width="300" align=center/>
 </div>
 
 * 報名表單
+  * 表單驗證功能
 
-<img src="https://github.com/Wangpoching/Lazy/blob/master/images/screenshots/lazy_screenshot_form.png" width="200" align=center/>
+<img src="https://github.com/Wangpoching/Lazy/blob/master/images/screenshots/lazy_screenshot_form.png" width="300" align=center/>
+
+## Contacts
+
+Poching Wang
+
+[wangpeter588@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=wangpeter588@gmail.com)
+
+[LinkedIn](www.linkedin.com/in/wangpoching)
