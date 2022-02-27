@@ -5,15 +5,15 @@
 
 [即刻報名](http://13.59.36.215/lazy/form.php)
 
-## Feature amd Scrrenshot
+## Feature amd Screenshot
 
 * 主視覺
 
 <div>
-<img src="https://github.com/Wangpoching/Lazy/images/screenshots/lazy_screenshot_main01" width="200" height="356" align=center/>
-<img src="https://github.com/Wangpoching/Lazy/images/screenshots/lazy_screenshot_main02" width="200" height="356" align=center/>
+<img src="https://github.com/Wangpoching/Lazy/blob/master/images/screenshots/lazy_screenshot_main01.png" align=center/>
+<img src="https://github.com/Wangpoching/Lazy/blob/master/images/screenshots/lazy_screenshot_main02.png" align=center/>
 </div>
 
 * 報名表單
 
-
+<img src="https://github.com/Wangpoching/Lazy/blob/master/images/screenshots/lazy_screenshot_form.png" align=center/>
